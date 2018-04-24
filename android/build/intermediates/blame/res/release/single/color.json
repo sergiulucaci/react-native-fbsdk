@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d5ffad4f5b5a5ae829c09410d6f4dad8df103d53/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d5ffad4f5b5a5ae829c09410d6f4dad8df103d53/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/color/abc_tint_seek_thumb.xml"
+    }
+]

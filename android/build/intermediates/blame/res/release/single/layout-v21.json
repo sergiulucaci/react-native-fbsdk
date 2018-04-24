@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/macbookpro/.android/build-cache/affbba24c1f6a9ec1fc990d0a05d0708aeb80e0a/output/res/layout-v21/notification_action.xml"
+    }
+]
